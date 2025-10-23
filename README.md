@@ -57,13 +57,14 @@ Informe a opção desejada: nu
 -> Novo usuário criado com sucesso!
 
 Informe a opção desejada: nc
+```
 -> Conta criada e vinculada ao usuário.
-
+```
 Informe a opção desejada: d
+```
 -> Depósito de R$ 500,00 realizado com sucesso!
-
+```
 Informe a opção desejada: e
-->  
 ```bash
 ->  === EXTRATO ===
     Depósito: R$ 500,00
