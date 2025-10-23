@@ -63,7 +63,8 @@ Informe a opção desejada: d
 -> Depósito de R$ 500,00 realizado com sucesso!
 
 Informe a opção desejada: e
-->  ```bash
+->  
+    ```bash
     === EXTRATO ===
     Depósito: R$ 500,00
     Saldo atual: R$ 500,00
