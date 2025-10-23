@@ -28,13 +28,13 @@ O repositório contém o código-fonte de um **sistema bancário executado no te
 ## ⚙️ Instalação e Execução
 
 1. **Clone o repositório:**
-    ```bash
+```bash
     git clone <url_do_projeto_git>
-    ```
+```
 2. Navegue até a pasta do projeto via terminal:
-    ```bash
+```bash
     cd dio-desafio-banco.
-    ```
+```
 3. Execute o script principal com o comando:
 ```bash
     python desafio.py
@@ -65,7 +65,7 @@ Informe a opção desejada: d
 Informe a opção desejada: e
 ->  
 ```bash
-    === EXTRATO ===
+->  === EXTRATO ===
     Depósito: R$ 500,00
     Saldo atual: R$ 500,00
     =================
