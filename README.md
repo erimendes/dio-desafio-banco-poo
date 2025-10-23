@@ -36,9 +36,9 @@ O repositório contém o código-fonte de um **sistema bancário executado no te
     cd dio-desafio-banco.
     ```
 3. Execute o script principal com o comando:
-    ```bash
+```bash
     python desafio.py
-    ```
+```
 
 ## 💻 Como Usar o Sistema
 
@@ -64,9 +64,9 @@ Informe a opção desejada: d
 
 Informe a opção desejada: e
 ->  
-    ```bash
+```bash
     === EXTRATO ===
     Depósito: R$ 500,00
     Saldo atual: R$ 500,00
     =================
-    ```
+```
