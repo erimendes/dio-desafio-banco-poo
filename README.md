@@ -54,8 +54,9 @@ Ao executar o arquivo principal, você verá o seguinte menu interativo:
 ======================================
 ```
 Informe a opção desejada: nu
+```
 -> Novo usuário criado com sucesso!
-
+```
 Informe a opção desejada: nc
 ```
 -> Conta criada e vinculada ao usuário.
