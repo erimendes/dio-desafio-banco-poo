@@ -33,7 +33,7 @@ O repositório contém o código-fonte de um **sistema bancário executado no te
 ```
 2. Navegue até a pasta do projeto via terminal:
 ```bash
-    cd dio-desafio-banco.
+    cd dio-desafio-banco-poo.
 ```
 3. Execute o script principal com o comando:
 ```bash
